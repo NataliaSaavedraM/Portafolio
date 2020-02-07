@@ -1,0 +1,18 @@
+.titleSkill{
+  font-size: x-large;
+  font-weight: bolder;
+  color: #525252;
+  margin-left: auto;
+}
+.iconSkill{
+  width: 10%;
+  height: 60%;
+  margin: auto;
+}
+.iconSkills{
+  width: 10%;
+  height: 30%;
+  margin: auto;
+  margin-top: 2%;
+
+}
