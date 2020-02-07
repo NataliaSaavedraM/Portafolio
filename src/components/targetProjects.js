@@ -17,8 +17,8 @@ const card =() => {
     <Card.Text >
      Aplicación enlazada a Firebase que tiene como proposito fomentar el reciclaje y generar actividad economica en torno a esta area.
     </Card.Text>
-    <Card.Link href="#">Deploy</Card.Link>
-    <Card.Link href="#">Code</Card.Link>
+    <Card.Link href="https://reciclaje-unidos.firebaseapp.com/">Deploy</Card.Link>
+    <Card.Link href="https://github.com/NataliaSaavedraM/SCL011-SocialNetwork">Code</Card.Link>
   </Card.Body>
 </Card>
  
@@ -29,8 +29,8 @@ const card =() => {
     <Card.Text>
      Aplicación movil con proposito recreativo, enfocado a niñas de 5 a 8 años y fans de Hello Kitty.
     </Card.Text>
-    <Card.Link href="#">Deploy</Card.Link>
-    <Card.Link href="#">Code</Card.Link>
+    <Card.Link href="https://claseslaboratoria.slack.com/files/UM599TB24/FT2KEB81Z/scl011-tic-tac-toe-b5bdfc5d1bee4366acf4fba041ee9493-signed.apk">Deploy</Card.Link>
+    <Card.Link href="https://github.com/NataliaSaavedraM/SCL011-Tic-Tac-Toe">Code</Card.Link>
   </Card.Body>
 </Card>
 
@@ -41,8 +41,8 @@ const card =() => {
     <Card.Text>
      Aplicación enlazada a firebase offline que busca mejorar los tiempos del servicio en un restorant.
     </Card.Text>
-    <Card.Link href="#">Deploy</Card.Link>
-    <Card.Link href="#">Code</Card.Link>
+    <Card.Link href="https://burger-queen-2dc5a.firebaseapp.com/">Deploy</Card.Link>
+    <Card.Link href="https://github.com/NataliaSaavedraM/SCL011-Burger-Queen">Code</Card.Link>
   </Card.Body>
 </Card>
 <Card style={{ width: '15rem' }}>
@@ -52,8 +52,8 @@ const card =() => {
     <Card.Text>
      Pagina web que tiene como target a estudiantes, academicos y profesionales  relacionados a las ciencias sociales que requieren informacion sobre el rol de la mujer.
     </Card.Text>
-    <Card.Link href="#">Deploy</Card.Link>
-    <Card.Link href="#">Code</Card.Link>
+    <Card.Link href="https://nataliasaavedram.github.io/SCL011-data-lovers/src/index.html">Deploy</Card.Link>
+    <Card.Link href="https://github.com/NataliaSaavedraM/SCL011-data-lovers">Code</Card.Link>
   </Card.Body>
 </Card>
 <Card style={{ width: '15rem' }}>
@@ -63,8 +63,8 @@ const card =() => {
     <Card.Text>
      Aplicación en Javascript con Api que tiene como objetivo desarrollar una estrategia de Promocion Fomentando las visitas al cine y al consumo de snacks en este con una trivia.
     </Card.Text>
-    <Card.Link href="#">Deploy</Card.Link>
-    <Card.Link href="#">Code</Card.Link>
+    <Card.Link href="https://www.figma.com/file/KgGJWAPaw5zqZrGTeQpG3K/CinePlay?node-id=0%3A1">Deploy</Card.Link>
+    <Card.Link href="https://github.com/NataliaSaavedraM/SCL-011-Hackaton-">Code</Card.Link>
   </Card.Body>
 </Card>
 </Row>
