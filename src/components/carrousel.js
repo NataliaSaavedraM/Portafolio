@@ -5,7 +5,7 @@ import './carrousel.css'
 
 
 
-const CarouselHomy = props=>{
+const CarouselHomy = ()=>{
 
   return(
    /*  <Container fluid>
@@ -18,7 +18,7 @@ const CarouselHomy = props=>{
   
     <img
       className="d-block w-100"
-      src="https://i.ibb.co/WV7JxwZ/codigo.png" 
+      src="https://i.ibb.co/z5NnKrP/codigo2.png" 
       alt="First slide"
     />
     <Carousel.Caption>
@@ -58,7 +58,7 @@ const CarouselHomy = props=>{
 
 
 
-
+ 
 
   );
 }
