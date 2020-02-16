@@ -1,10 +1,19 @@
 .caption1{
   color: rgb(255, 248, 248);
+  font-family: 'Sriracha', cursive;
+  font-size: 2.5rem;
 }
 
 .caption2{
-  color: rgb(14, 13, 13);
+  color:rgb(8, 74, 112);
+  background-color:  rgba(248, 247, 239, 0.75);
+  font-family: 'Sriracha', cursive;
+  font-size: 2.5rem;
+  padding: 0px 0px;
 }
 .caption3{
-  color: rgb(85, 27, 27);
+  color:rgb(8, 74, 112);
+  font-family: 'Sriracha', cursive;
+  background-color:  rgba(224, 224, 222, 0.5);
+  font-size: 2.5rem;
 }

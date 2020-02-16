@@ -5,7 +5,7 @@ import './carrousel.css'
 
 
 
-const CarouselHomy = prop =>{
+const CarouselHomy = props=>{
 
   return(
    /*  <Container fluid>

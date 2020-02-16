@@ -1,0 +1,15 @@
+.Card{
+  display: flex;
+}
+.Card.Title{
+  color: rgb(15, 86, 128);
+
+}
+p{
+  text-align: justify;
+  
+}
+h2{
+  color:rgb(15, 86, 128);
+
+}
